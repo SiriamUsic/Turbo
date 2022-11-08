@@ -1,5 +1,5 @@
 
 cd $(cd $(dirname $0); pwd)
 while(true) do
-lua5.3 Luda.lua
+lua5.3 NASA.lua
 done
